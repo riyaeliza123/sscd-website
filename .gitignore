@@ -1,0 +1,34 @@
+
+.ipynb_checkpoints/SSCD Tutorial-checkpoint.ipynb
+data/yoloV3_checkpoints/focus_detector/yolov3_train_190.tf.index
+data/yoloV3_checkpoints/focus_detector/yolov3_train_190.tf.data-00001-of-00002
+data/yoloV3_checkpoints/focus_detector/yolov3_train_190.tf.data-00000-of-00002
+data/yoloV3_checkpoints/focus_detector/checkpoints_metadata.txt
+SSCD.egg-info/dependency_links.txt
+SSCD.egg-info/PKG-INFO
+SSCD.egg-info/SOURCES.txt
+SSCD.egg-info/top_level.txt
+*.pyc
+*.pyc
+data/yoloV3_checkpoints/circuli_detector/yolov3_train_22.tf.data-00000-of-00002
+data/yoloV3_checkpoints/circuli_detector/yolov3_train_22.tf.data-00001-of-00002
+data/yoloV3_checkpoints/circuli_detector/yolov3_train_22.tf.index
+data/yoloV3_checkpoints/circuli_detector/checkpoints_metadata.txt
+*.pyc
+docs/SSCD testing.ipynb
+log_sscd_detection.log
+sscd_libs/__pycache__/detection.cpython-37.pyc
+sscd_libs/.ipynb_checkpoints/detection-checkpoint.py
+.ipynb_checkpoints/sscd-checkpoint.py
+sscd_libs/__pycache__/detection.cpython-37.pyc
+sscd_libs/__pycache__/detection.cpython-37.pyc
+sscd_libs/__pycache__/detection.cpython-37.pyc
+docs/.ipynb_checkpoints/SSCD detection example usage-checkpoint.ipynb
+docs/.ipynb_checkpoints/SSCD testing-checkpoint.ipynb
+docs/.ipynb_checkpoints/SSCD Training Protocol-checkpoint.ipynb
+docs/.ipynb_checkpoints/SSCD Tutorial-checkpoint.ipynb
+.ipynb_checkpoints/README-checkpoint.md
+docs/.ipynb_checkpoints/sscd_evaluate-checkpoint.md
+docs/comments and ideas.md
+.Rproj.user
+SSCD_results
